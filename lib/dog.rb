@@ -7,7 +7,7 @@ end
 def name
   @name
 end
-end 
+
   def bark
     "woof!"
   end
@@ -15,4 +15,4 @@ end
 
 
 fido = Dog.new
-fido.bark 
+fido.bark
