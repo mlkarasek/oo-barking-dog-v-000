@@ -9,7 +9,7 @@ def name=(fido)
 end
 
 def name
-  return name
+  @name
 
 end
 
