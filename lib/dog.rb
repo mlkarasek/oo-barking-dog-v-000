@@ -13,6 +13,6 @@ end
   end
 end
 
-fido = Dog.new
-fido.name=("Fido")
+ffido = Dog.new
+fido.name = "Fido"
 fido.bark
