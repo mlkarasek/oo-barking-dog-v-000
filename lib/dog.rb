@@ -4,10 +4,13 @@ class Dog
     "woof!"
   end
 
-def name=
-  puts "Fido"
+def name=(dog_name)
+  name = dog_name
 end 
-  
+
+def name 
+  return name 
+
 end
 
 fido = Dog.new
