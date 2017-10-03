@@ -12,6 +12,3 @@ end
     "woof!"
   end
 end
-
-
-
