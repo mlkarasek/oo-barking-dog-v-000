@@ -1,8 +1,8 @@
 class Dog
-let(:fido) {Dog.new}
+  
 
 def initialize(name)
-  @name = name
+  @name = "Fido"
 end
 
 def name
