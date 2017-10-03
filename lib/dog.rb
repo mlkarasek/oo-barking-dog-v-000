@@ -1,4 +1,5 @@
 class Dog
+let(:fido) {Dog.new}
 
 def initialize(name)
   @name = name
