@@ -5,7 +5,7 @@ class Dog
   end
 
 def name=(fido)
-  name = fido
+  @name = fido
 end
 
 def name
@@ -15,4 +15,3 @@ end
 
 fido = Dog.new
 fido.bark
- 
