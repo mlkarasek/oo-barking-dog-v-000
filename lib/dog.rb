@@ -6,13 +6,13 @@ class Dog
 
 def name=(dog_name)
   name = dog_name
-end 
+end
 
-def name 
-  return name 
+def name
+  return name
 
 end
 
 fido = Dog.new
 fido.bark
-fido.name = "Fido"
+fido.name 
