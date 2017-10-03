@@ -4,8 +4,8 @@ class Dog
     "woof!"
   end
 
-def name=(fido)
-  @name = fido
+def name=(name)
+  @name = name 
 end
 
 def name
